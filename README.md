@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @chandantiwari1
-- 👀 I’m full stack web developer ,
--    mern stack/ mean stack developer...
-- 🌱 I’m currently learning  AR/VR pwas ...
+- 👀 I’m a data scientist.
+- 🌱 I’m currently learning computer vision and nlp.
 - 💞️ I’m looking to collaborate on Google summer of code and excited about it...
 - 📫 contact - me https://www.linkedin.com/in/chandantiwari1/
-- or see my skills - https://chandantiwari1.github.io/chanantiwari1.github.io/
-- or just follow me on instagram -- https://www.instagram.com/chandan_ji_tiwari/
+- or see my skills - http://chandantiwari.me
+- or just follow me on youtube: https://www.youtube.com/channel/UCi6QULelqJPUePzPaXSSmQg
 - 
 
 <!---
