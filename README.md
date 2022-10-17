@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Machine learning and AI<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for ML Internships.<br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee.
+🔭 I’m currently working Machine learning and AI<br>👯 I’m looking to collaborate on insightful projects<br>🤝 <br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee.
 
 
 ## 🌐 Socials:
