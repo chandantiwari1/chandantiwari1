@@ -2,7 +2,7 @@
 🔭 I’m full stack developer I<br>👯 I’m learing artificial interlligence and machine learning<br>🤝 <br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee.
 <br>P.S: something awesome is cooking
 
-<br> and Yes don't forget to subscribe my youtube channel [![Youtube](https://www.youtube.com/channel/UCi6QULelqJPUePzPaXSSmQg)]
+<br> and Yes don't forget to subscribe my youtube channel (https://www.youtube.com/channel/UCi6QULelqJPUePzPaXSSmQg)
 
 ![](profile.gif)
 
